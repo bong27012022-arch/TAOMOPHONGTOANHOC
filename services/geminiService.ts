@@ -71,7 +71,8 @@ III. YÊU CẦU OUTPUT:
 A. CODE MÔ PHỎNG HTML/CSS/JS
 Viết code hoàn chỉnh (Single File) với yêu cầu:
 - Giao diện đơn giản, hiện đại, có tiêu đề và nút Reset.
-- Sử dụng Canvas/SVG để vẽ.
+- Bố cục (Layout): PHẢI CHIA MÀN HÌNH THÀNH 2 PHẦN RIÊNG BIỆT (ví dụ: dùng Flexbox hoặc Grid). Một bên chứa bảng điều khiển, một bên chứa khu vực mô phỏng. TUYỆT ĐỐI KHÔNG DÙNG position absolute hay fixed làm thẻ điều khiển che khuất khu vực mô phỏng.
+- Sử dụng Canvas/SVG để vẽ trong khu vực dành riêng của nó.
 - Slider/input/checkbox để điều chỉnh thông số đã nêu.
 - Hiển thị giá trị real-time (số + hình ảnh).
 - Tất cả nhãn bằng tiếng Việt.
@@ -168,7 +169,8 @@ II. YÊU CẦU OUTPUT:
 A. CODE MÔ PHỎNG HTML/CSS/JS
 Viết code hoàn chỉnh (Single File) với yêu cầu:
 - Giao diện đơn giản, hiện đại, có tiêu đề và nút Reset.
-- Sử dụng Canvas/SVG để vẽ.
+- Bố cục (Layout): PHẢI CHIA MÀN HÌNH THÀNH 2 PHẦN RIÊNG BIỆT (ví dụ: dùng Flexbox hoặc Grid). Một bên chứa bảng điều khiển, một bên chứa khu vực mô phỏng. TUYỆT ĐỐI KHÔNG DÙNG position absolute hay fixed làm thẻ điều khiển che khuất khu vực mô phỏng.
+- Sử dụng Canvas/SVG để vẽ trong khu vực dành riêng của nó.
 - Slider/input/checkbox để điều chỉnh thông số đã nêu.
 - Hiển thị giá trị real-time (số + hình ảnh).
 - Tất cả nhãn bằng tiếng Việt.
